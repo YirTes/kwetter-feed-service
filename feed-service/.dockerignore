@@ -1,0 +1,32 @@
+# Environment variables (never include this)
+.env
+
+# Maven output directory
+target/
+
+# Maven wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+# IntelliJ project files
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Git
+.git/
+.gitignore
+.github/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Kubernetes manifests
+k8s/
+
+# Logs
+*.log
